@@ -1,0 +1,31 @@
+.card{
+    position:fixed;
+    margin:auto;
+    inset:0;
+    /*upper code is to center the box in the most shortest way */
+
+    height:498px;
+    box-shadow: 0 13px 20px 0 rgba(0, 0, 0, 0.1);
+    width :100%;
+     max-width:318px ;
+    background-color:white;
+    border-radius: 16px;
+    padding:1rem;
+}
+body{
+    background-color: rgb(127,135,144);
+    font-family: cursive;
+    text-align: center;
+   
+}
+img{
+    width:100%;
+    border-radius: 10px;
+    
+}
+h2{
+    color:rgb(31,50,81);
+}
+p{
+    color: hsl(220, 15%, 55%);
+}
