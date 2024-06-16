@@ -1,0 +1,52 @@
+.project2{
+    position:fixed;
+    inset:0;
+    margin:auto;
+    height:596px;
+    width:350px;
+    background-color: rgb(13,23,38);
+    border-radius: 12px;
+    padding:1rem;
+}
+img{
+    width:100%;
+    border-radius: 8px;
+}
+h2{
+color:rgb(228,234,234);
+position:relative;
+left:22px;
+}
+p{
+    position:relative;
+    left:22px;
+    color:rgb(125,150,182);
+
+
+}
+h3{
+    color:White;
+    display: inline;
+}
+h4{
+    
+    display: inline-table;
+    color:white;
+    position:relative;
+    left:180px;
+}
+hr{
+    color:white;
+    
+   
+}
+h5{
+    color:white;
+    position:relative;
+    left:70px;
+   
+}
+body{
+    background-color: rgb(14,25,45);
+}
+
